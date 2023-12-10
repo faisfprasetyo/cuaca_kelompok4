@@ -1,4 +1,4 @@
-# ai
+# Project AI Kelompok 4 (Prediksi Cuaca)
 |Nama|File|
 |---|---|
 | Laporan | [Laporan Kelompok 4](https://docs.google.com/document/d/1cHnOGLR2cemuQaWsOOyKYw2tHjCEa78RQRJntmnou-E/edit?usp=sharing) |
