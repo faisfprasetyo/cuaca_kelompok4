@@ -5,4 +5,4 @@
 | Power Point | [PPT Kelompok 4](https://www.canva.com/design/DAF2f5TYdNI/sH6U4s4EdDXeajNsraPPiA/edit?utm_content=DAF2f5TYdNI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
 | Code | [Code Kelompok 4](prediksi_cuaca.py) |
 | Code (Google Colab) | [Colab Kelompok 4](https://colab.research.google.com/drive/1cg_405NVWhKtuoCAxfXj1u3MKhE8897n#scrollTo=abPXKYx3dQRe) |
-| Dataset | [Dataset Cuaca] (seattleweather.csv) |
+| Dataset | [Dataset Cuaca] (https://github.com/faisfprasetyo/cuaca_kelompok4/blob/main/seattleweather.csv) |
